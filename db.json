@@ -117,22 +117,6 @@
       "price": 59,
       "img": "images/Featured-Products-img/plywood-4.webp",
       "alt": "plywood armchair"
-    },
-    {
-      "id": 4,
-      "title": "Plywood arm chair",
-      "code": "F45681",
-      "price": 39.9,
-      "img": "images/Featured-Products-img/plywood-5.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 5,
-      "title": "Plywood arm chair",
-      "code": "Y53201",
-      "price": 59,
-      "img": "images/Featured-Products-img/plywood-4.webp",
-      "alt": "plywood armchair"
     }
   ],
   "latest_products": [
@@ -172,26 +156,6 @@
       "price": 48,
       "discount": 53,
       "img": "images/Latest-Products/chair-4.jpg",
-      "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
-      "altIcon": "Sale product icon"
-    },
-    {
-      "id": 5,
-      "title": "Winder chair Sofa",
-      "price": 52,
-      "discount": 72,
-      "img": "images/Latest-Products/chair-5.jpg",
-      "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
-      "altIcon": "Sale product icon"
-    },
-    {
-      "id": 6,
-      "title": "Winder chair Sofa",
-      "price": 65,
-      "discount": 38,
-      "img": "images/Latest-Products/chair-6.jpg",
       "alt": "Latest Product winder chair sofa",
       "icon": "images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
