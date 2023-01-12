@@ -90,5 +90,254 @@
       "img": "images/Featured-Products-img/plywood-4.webp",
       "alt": "plywood armchair"
     }
-  ]
+  ],
+  "latest_products": [
+    {
+      "id": 1,
+      "title": "Winder chair Sofa",
+      "price": 32,
+      "discount": 58,
+      "img": "images/Latest-Products/chair-1.jpg",
+      "alt": "Latest Product winder chair sofa",
+      "icon": "images/Latest-Products/sale.png",
+      "altIcon": "Sale product icon"
+    },
+    {
+      "id": 2,
+      "title": "Winder chair Sofa",
+      "price": 38,
+      "discount": 45,
+      "img": "images/Latest-Products/chair-2.jpg",
+      "alt": "Latest Product winder chair sofa",
+      "icon": "images/Latest-Products/sale.png",
+      "altIcon": "Sale product icon"
+    },
+    {
+      "id": 3,
+      "title": "Winder chair Sofa",
+      "price": 42,
+      "discount": 65,
+      "img": "images/Latest-Products/chair-3.jpg",
+      "alt": "Latest Product winder chair sofa",
+      "icon": "images/Latest-Products/sale.png",
+      "altIcon": "Sale product icon"
+    },
+    {
+      "id": 4,
+      "title": "Winder chair Sofa",
+      "price": 48,
+      "discount": 53,
+      "img": "images/Latest-Products/chair-4.jpg",
+      "alt": "Latest Product winder chair sofa",
+      "icon": "images/Latest-Products/sale.png",
+      "altIcon": "Sale product icon"
+    },
+    {
+      "id": 5,
+      "title": "Winder chair Sofa",
+      "price": 52,
+      "discount": 72,
+      "img": "images/Latest-Products/chair-5.jpg",
+      "alt": "Latest Product winder chair sofa",
+      "icon": "images/Latest-Products/sale.png",
+      "altIcon": "Sale product icon"
+    },
+    {
+      "id": 6,
+      "title": "Winder chair Sofa",
+      "price": 65,
+      "discount": 38,
+      "img": "images/Latest-Products/chair-6.jpg",
+      "alt": "Latest Product winder chair sofa",
+      "icon": "images/Latest-Products/sale.png",
+      "altIcon": "Sale product icon"
+    }
+  ],
+  "shopex-offer": [
+    {
+      "id": 1,
+      "title": "Quality Products",
+      "img": "images/Shopex-Offer/icon-1.png",
+      "alt": "Quality Products icon",
+      "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
+    },
+    {
+      "id": 2,
+      "title": "Quick Delivery",
+      "img": "images/Shopex-Offer/icon-2.png",
+      "alt": "Quick Delivery icon",
+      "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
+    },
+    {
+      "id": 3,
+      "title": "Reasonable Pricing",
+      "img": "images/Shopex-Offer/icon-3.png",
+      "alt": "Reasonable Pricing icon",
+      "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
+    },
+    {
+      "id": 4,
+      "title": "24/7 Support",
+      "img": "images/Shopex-Offer/icon-4.png",
+      "alt": "24/7 Support icon",
+      "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
+    }
+  ],
+  "latest_blog": [
+    {
+      "id": 1,
+      "to": "#",
+      "img": "images/Latest-Blog/Interior-1.jpg",
+      "alt": "Room interior with sofa floor lamps",
+      "authorName": "Mehedii.H",
+      "authorImg": "images/Latest-Blog/publisher-1-1.webp",
+      "authorAlt": "publisher img",
+      "time ": "24 August,2022",
+      "title": "Room interior with sofa floor lamps",
+      "description": "More off this less hello salamander lied much over tightly circa horse taped mightily"
+    },
+    {
+      "id": 2,
+      "to": "#",
+      "img": "images/Latest-Blog/Interior-2.jpg",
+      "alt": "Room interior with sofa floor lamps",
+      "authorName": "Nayeim.J",
+      "authorImg": "images/Latest-Blog/publisher-2-2.jpg",
+      "authorAlt": "publisher img",
+      "time ": "10 August,2022",
+      "title": "Gray sofa combination with flower",
+      "description": "More off this less hello salamander lied much over tightly circa horse taped mightily"
+    },
+    {
+      "id": 3,
+      "to": "#",
+      "img": "images/Latest-Blog/Interior-3.jpg",
+      "alt": "Room interior with sofa floor lamps",
+      "authorName": "Saidsajid.H",
+      "authorImg": "images/Latest-Blog/publisher-3-3.jpg",
+      "authorAlt": "publisher img",
+      "time ": "21 August,2022",
+      "title": "Top essential dress trends in 2022",
+      "description": "More off this less hello salamander lied much over tightly circa horse taped mightily"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "img": "images/brands/1.png",
+      "alt": "live brand icon"
+    },
+    {
+      "id": 2,
+      "img": "images/brands/2.png",
+      "alt": "Hand Crafted brand icon"
+    },
+    {
+      "id": 3,
+      "img": "images/brands/3.png",
+      "alt": "Mestonix brand icon"
+    },
+    {
+      "id": 4,
+      "img": "images/brands/4.png",
+      "alt": "Hello Sunshine brand icon"
+    },
+    {
+      "id": 5,
+      "img": "images/brands/5.png",
+      "alt": "Pure brand icon"
+    }
+  ],
+  "top_catagories": [
+    {
+      "id": 1,
+      "img": "images/Top-Catagories/Plywood-Arm-Chair.png",
+      "alt": "plywood armchair",
+      "title": "Plywood Arm Chair",
+      "price": 56
+    },
+    {
+      "id": 2,
+      "img": "images/Top-Catagories/Modern-coffe-chair.png",
+      "alt": "Modern coffee chair",
+      "title": "Coffee Wood Chair",
+      "price": 56
+    },
+    {
+      "id": 3,
+      "img": "images/Top-Catagories/High-Bar-Stool-Chair.png",
+      "alt": "High Bar Stool Chair",
+      "title": "High Bar Stool Chair",
+      "price": 56
+    },
+    {
+      "id": 4,
+      "img": "images/Top-Catagories/Mini-LCW-Chair-2.png",
+      "alt": "Mini LCW Chair",
+      "title": "Mini LCW Chair",
+      "price": 56
+    },
+    {
+      "id": 5,
+      "img": "images/Top-Catagories/Plywood-Arm-Chair.png",
+      "alt": "plywood armchair",
+      "title": "Plywood Arm Chair",
+      "price": 56
+    },
+    {
+      "id": 6,
+      "img": "images/Top-Catagories/Modern-coffe-chair.png",
+      "alt": "Modern coffee chair",
+      "title": "Coffee Wood Chair",
+      "price": 56
+    }
+  ],
+  "trending_products": {
+    "discountPro50": {
+      "id": 1,
+      "title": "50% off in all products",
+      "img": "images/Trending-Products/Mantel-Clock.png",
+      "alt": "Mantel Clock"
+    },
+    "discountPro25": {
+      "id": 1,
+      "title": "23% off in all products",
+      "img": "images/Trending-Products/tv-Table.png",
+      "alt": "tv table"
+    },
+    "cardData": [
+      {
+        "id": 1,
+        "img": "images/Trending-Products/chair-1.jpg",
+        "alt": "wooden outer arm chair",
+        "title": "Wooden outdoor chair",
+        "price": 39.99,
+        "discount": 60.99
+      },
+      {
+        "id": 2,
+        "img": "images/Trending-Products/chair-2.jpg",
+        "alt": "wooden outer arm chair",
+        "title": "Ladderback chair",
+        "price": 39.99,
+        "discount": 60.99
+      },
+      {
+        "id": 3,
+        "img": "images/Trending-Products/chair-3.jpg",
+        "alt": "wooden outer arm chair",
+        "title": "Comfort Pillow Sofa",
+        "price": 39.99,
+        "discount": 60.99
+      },
+      {
+        "id": 4,
+        "img": "images/Trending-Products/chair-4.jpg",
+        "alt": "wooden outer arm chair",
+        "title": "Cantilever chair",
+        "price": 39.99,
+        "discount": 60.99
+      }
+    ]
+  }
 }
