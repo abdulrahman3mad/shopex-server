@@ -1,56 +1,6 @@
 {
   "users": [
-    {
-      "email": "abdo3mad@gmail.com",
-      "password": "$2a$10$bUBR/bCI/5BO3KRW4rUKT.kTB2wOf6VsE7l1xuQfR.OHFYUpqYjmm",
-      "name": "abdoemadselim",
-      "id": 1
-    },
-    {
-      "email": "abdoemad@gmail.com",
-      "password": "$2a$10$B8yeTBwAZIHKEhMuQzdhc.eXLYDcft6s45eKuwyoPljDhJoFOwypa",
-      "name": "abdoemad",
-      "id": 2
-    },
-    {
-      "email": "abdoemadselim@gmail.com",
-      "password": "$2a$10$i93swe4KKeHq32EJmWFDTuiYhzZp2kPvMXNS89b5LLq18iOefWQ3S",
-      "name": "abdoemad",
-      "id": 3,
-      "admin": true
-    },
-    {
-      "email": "abdoselim@gmail.com",
-      "password": "$2a$10$Yyk9TR4ZVhd05na.VVv4UuRGKm4cO3UEKZXsnA7xTNOQf5KCsGDEW",
-      "name": "abdoselim",
-      "id": 4,
-      "admin": true
-    },
-    {
-      "email": "hishamk1999@gmail.com",
-      "password": "$2a$10$471Dl05wZ2sLQ21oWiA7rurov184KQBecHlmXTMob/5czTH5mnouG",
-      "name": "Hisham",
-      "id": 5,
-      "admin": true
-    },
-    {
-      "email": "abdo_emad1@gmail.com",
-      "password": "$2a$10$M1iXE7fmWDiHanIhh2oGju6W/ehLh6IksrFmrgYX4GZHDFO9zmrOq",
-      "name": "abdoemad",
-      "id": 6
-    },
-    {
-      "email": "abd_emad@gmail.com",
-      "password": "$2a$10$FZ.AG5wsAWb4w5OhbMxRXuwQaRc.1CcLWab3unHIewonblDI7wGNe",
-      "name": "abdoemad",
-      "id": 7
-    },
-    {
-      "email": "abdo__emad@gmail.com",
-      "password": "$2a$10$JSZojI4q5vw/yaF4NvOddeO.LpYoblPYyRUgMdjAS3HNVhViv2oX2",
-      "name": "abdoemadselim",
-      "id": 8
-    }
+  
   ],
   "products": [
     {
@@ -201,78 +151,6 @@
       "price": 32,
       "oldprice": 50,
       "img": "images/Featured-Products-img/plywood-2.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 15,
-      "title": "Awesome Chair",
-      "code": "C45382",
-      "price": 45,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-3.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 16,
-      "title": "Plywood arm chair",
-      "code": "F45681",
-      "price": 39.9,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-5.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 17,
-      "title": "Plywood arm chair",
-      "code": "Y53201",
-      "price": 59,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-4.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 18,
-      "title": "Plywood arm chair",
-      "code": "F45681",
-      "price": 39.9,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-5.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 19,
-      "title": "Plywood arm chair",
-      "code": "Y53201",
-      "price": 59,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-4.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 20,
-      "title": "Plywood arm chair",
-      "code": "D45201",
-      "price": 32,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-2.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 21,
-      "title": "Awesome Chair",
-      "code": "C45382",
-      "price": 45,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-3.webp",
-      "alt": "plywood armchair"
-    },
-    {
-      "id": 22,
-      "title": "Plywood arm chair",
-      "code": "F45681",
-      "price": 39.9,
-      "oldprice": 50,
-      "img": "images/Featured-Products-img/plywood-5.webp",
       "alt": "plywood armchair"
     }
   ],

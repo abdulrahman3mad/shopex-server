@@ -1,10 +1,14 @@
 {
+  "homepage":"https://abdulrahman3mad.github.io/shopex-server",
   "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "json-server -w db.json --port 5000 --middlewares node_modules/json-server-auth -r routes.json"
+    "serve": "json-server -w db.json --port 5000 --middlewares node_modules/json-server-auth -r routes.json",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
