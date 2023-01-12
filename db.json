@@ -13,6 +13,72 @@
       "alt": "plywood armchair",
       "size": "XL",
       "color": "tan"
+    },
+    {
+      "id": 2,
+      "title": "chair",
+      "code": "C45382",
+      "price": 45,
+      "oldprice": 50,
+      "img": "images/Featured-Products-img/plywood-3.webp",
+      "alt": "plywood armchair",
+      "size": "XL",
+      "color": "tan"
+    },
+    {
+      "id": 3,
+      "title": "Plywood",
+      "code": "Y53201",
+      "price": 59,
+      "oldprice": 50,
+      "img": "images/Featured-Products-img/plywood-4.webp",
+      "alt": "plywood armchair",
+      "size": "XL",
+      "color": "tan"
+    },
+    {
+      "id": 4,
+      "title": "arm",
+      "code": "F45681",
+      "price": 39.9,
+      "oldprice": 50,
+      "img": "images/Featured-Products-img/plywood-5.webp",
+      "alt": "plywood armchair",
+      "size": "XL",
+      "color": "tan"
+    },
+    {
+      "id": 5,
+      "title": "Plywood3",
+      "code": "Y53201",
+      "price": 59,
+      "oldprice": 50,
+      "img": "images/Featured-Products-img/plywood-4.webp",
+      "alt": "plywood armchair",
+      "size": "XL",
+      "color": "tan"
+    },
+    {
+      "id": 6,
+      "title": "Ply",
+      "code": "D45201",
+      "price": 32,
+      "oldprice": 50,
+      "img": "images/Featured-Products-img/plywood-2.webp",
+      "alt": "plywood armchair",
+      "size": "XL",
+      "color": "tan"
+    },
+    {
+      "id": 7,
+      "title": "some Chair",
+      "code": "C45382",
+      "price": 45,
+      "oldprice": 50,
+      "img": "images/Featured-Products-img/plywood-3.webp",
+      "alt": "plywood armchair",
+      "size": "XL",
+      "color": "tan"
     }
   ],
   "carts": [],
@@ -88,6 +154,30 @@
       "code": "Y53201",
       "price": 59,
       "img": "images/Featured-Products-img/plywood-4.webp",
+      "alt": "plywood armchair"
+    },
+    {
+      "id": 6,
+      "title": "Plywood arm chair",
+      "code": "D45201",
+      "price": 32,
+      "img": "images/Featured-Products-img/plywood-2.webp",
+      "alt": "plywood armchair"
+    },
+    {
+      "id": 7,
+      "title": "Plywood arm chair",
+      "code": "C45382",
+      "price": 45,
+      "img": "images/Featured-Products-img/plywood-3.webp",
+      "alt": "plywood armchair"
+    },
+    {
+      "id": 8,
+      "title": "Plywood arm chair",
+      "code": "F45681",
+      "price": 39.9,
+      "img": "images/Featured-Products-img/plywood-5.webp",
       "alt": "plywood armchair"
     }
   ],
