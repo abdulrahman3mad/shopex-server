@@ -1,56 +1,5 @@
 {
   "users": [
-    {
-      "email": "abdo3mad@gmail.com",
-      "password": "$2a$10$bUBR/bCI/5BO3KRW4rUKT.kTB2wOf6VsE7l1xuQfR.OHFYUpqYjmm",
-      "name": "abdoemadselim",
-      "id": 1
-    },
-    {
-      "email": "abdoemad@gmail.com",
-      "password": "$2a$10$B8yeTBwAZIHKEhMuQzdhc.eXLYDcft6s45eKuwyoPljDhJoFOwypa",
-      "name": "abdoemad",
-      "id": 2
-    },
-    {
-      "email": "abdoemadselim@gmail.com",
-      "password": "$2a$10$i93swe4KKeHq32EJmWFDTuiYhzZp2kPvMXNS89b5LLq18iOefWQ3S",
-      "name": "abdoemad",
-      "id": 3,
-      "admin": true
-    },
-    {
-      "email": "abdoselim@gmail.com",
-      "password": "$2a$10$Yyk9TR4ZVhd05na.VVv4UuRGKm4cO3UEKZXsnA7xTNOQf5KCsGDEW",
-      "name": "abdoselim",
-      "id": 4,
-      "admin": true
-    },
-    {
-      "email": "hishamk1999@gmail.com",
-      "password": "$2a$10$471Dl05wZ2sLQ21oWiA7rurov184KQBecHlmXTMob/5czTH5mnouG",
-      "name": "Hisham",
-      "id": 5,
-      "admin": true
-    },
-    {
-      "email": "abdo_emad1@gmail.com",
-      "password": "$2a$10$M1iXE7fmWDiHanIhh2oGju6W/ehLh6IksrFmrgYX4GZHDFO9zmrOq",
-      "name": "abdoemad",
-      "id": 6
-    },
-    {
-      "email": "abd_emad@gmail.com",
-      "password": "$2a$10$FZ.AG5wsAWb4w5OhbMxRXuwQaRc.1CcLWab3unHIewonblDI7wGNe",
-      "name": "abdoemad",
-      "id": 7
-    },
-    {
-      "email": "abdo@gmail.com",
-      "password": "$2a$10$G/vQiWRcZT7tgzbvtXtipePaxksHtQ5nbozFyNtQIAesWI3Yrc0P6",
-      "name": "abdoemad",
-      "id": 8
-    }
   ],
   "products": [
     {
