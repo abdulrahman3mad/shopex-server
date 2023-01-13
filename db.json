@@ -1,5 +1,56 @@
 {
   "users": [
+    {
+      "email": "abdo3mad@gmail.com",
+      "password": "$2a$10$bUBR/bCI/5BO3KRW4rUKT.kTB2wOf6VsE7l1xuQfR.OHFYUpqYjmm",
+      "name": "abdoemadselim",
+      "id": 1
+    },
+    {
+      "email": "abdoemad@gmail.com",
+      "password": "$2a$10$B8yeTBwAZIHKEhMuQzdhc.eXLYDcft6s45eKuwyoPljDhJoFOwypa",
+      "name": "abdoemad",
+      "id": 2
+    },
+    {
+      "email": "abdoemadselim@gmail.com",
+      "password": "$2a$10$i93swe4KKeHq32EJmWFDTuiYhzZp2kPvMXNS89b5LLq18iOefWQ3S",
+      "name": "abdoemad",
+      "id": 3,
+      "admin": true
+    },
+    {
+      "email": "abdoselim@gmail.com",
+      "password": "$2a$10$Yyk9TR4ZVhd05na.VVv4UuRGKm4cO3UEKZXsnA7xTNOQf5KCsGDEW",
+      "name": "abdoselim",
+      "id": 4,
+      "admin": true
+    },
+    {
+      "email": "hishamk1999@gmail.com",
+      "password": "$2a$10$471Dl05wZ2sLQ21oWiA7rurov184KQBecHlmXTMob/5czTH5mnouG",
+      "name": "Hisham",
+      "id": 5,
+      "admin": true
+    },
+    {
+      "email": "abdo_emad1@gmail.com",
+      "password": "$2a$10$M1iXE7fmWDiHanIhh2oGju6W/ehLh6IksrFmrgYX4GZHDFO9zmrOq",
+      "name": "abdoemad",
+      "id": 6
+    },
+    {
+      "email": "abd_emad@gmail.com",
+      "password": "$2a$10$FZ.AG5wsAWb4w5OhbMxRXuwQaRc.1CcLWab3unHIewonblDI7wGNe",
+      "name": "abdoemad",
+      "id": 7
+    },
+    {
+      "email": "abdo@gmail.com",
+      "password": "$2a$10$G/vQiWRcZT7tgzbvtXtipePaxksHtQ5nbozFyNtQIAesWI3Yrc0P6",
+      "name": "abdoemad",
+      "id": 8
+    }
   ],
   "products": [
     {
@@ -258,7 +309,7 @@
         "subtitle": "Best Furniture For Your Castle.....",
         "title": "New Furniture Collection Trends in 2020",
         "description": "When it comes to searching for first-rate interior design tips, tricks, and all-around inspiration it's all too easy to get sucked down the rabbit hole of sub-par sites.",
-        "image": "/images/Home_img/Grey-Armchair.png",
+        "image": "./images/Home_img/Grey-Armchair.png",
         "className": "carousel-item active h-100 "
       },
       {
@@ -266,7 +317,7 @@
         "subtitle": "Best Furniture For Your Castle.....",
         "title": "New Furniture Collection Trends in 2020",
         "description": "When it comes to searching for first-rate interior design tips, tricks, and all-around inspiration it's all too easy to get sucked down the rabbit hole of sub-par sites.",
-        "image": "/images/Home_img/Grey-Armchair.png",
+        "image": "./images/Home_img/Grey-Armchair.png",
         "className": "carousel-item h-100 "
       },
       {
@@ -274,7 +325,7 @@
         "subtitle": "Best Furniture For Your Castle.....",
         "title": "New Furniture Collection Trends in 2020",
         "description": "When it comes to searching for first-rate interior design tips, tricks, and all-around inspiration it's all too easy to get sucked down the rabbit hole of sub-par sites.",
-        "image": "/images/Home_img/Grey-Armchair.png",
+        "image": "./images/Home_img/Grey-Armchair.png",
         "className": "carousel-item h-100 "
       }
     ]
@@ -351,9 +402,9 @@
       "title": "Winder chair Sofa",
       "price": 32,
       "discount": 58,
-      "img": "images/Latest-Products/chair-1.jpg",
+      "img": "./images/Latest-Products/chair-1.jpg",
       "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
+      "icon": "./images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
     },
     {
@@ -361,9 +412,9 @@
       "title": "Winder chair Sofa",
       "price": 38,
       "discount": 45,
-      "img": "images/Latest-Products/chair-2.jpg",
+      "img": "./images/Latest-Products/chair-2.jpg",
       "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
+      "icon": "./images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
     },
     {
@@ -371,9 +422,9 @@
       "title": "Winder chair Sofa",
       "price": 42,
       "discount": 65,
-      "img": "images/Latest-Products/chair-3.jpg",
+      "img": "./images/Latest-Products/chair-3.jpg",
       "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
+      "icon": "./images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
     },
     {
@@ -381,9 +432,9 @@
       "title": "Winder chair Sofa",
       "price": 48,
       "discount": 53,
-      "img": "images/Latest-Products/chair-4.jpg",
+      "img": "./images/Latest-Products/chair-4.jpg",
       "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
+      "icon": "./images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
     },
     {
@@ -391,9 +442,9 @@
       "title": "Winder chair Sofa",
       "price": 52,
       "discount": 72,
-      "img": "images/Latest-Products/chair-5.jpg",
+      "img": "./images/Latest-Products/chair-5.jpg",
       "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
+      "icon": "./images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
     },
     {
@@ -401,9 +452,9 @@
       "title": "Winder chair Sofa",
       "price": 65,
       "discount": 38,
-      "img": "images/Latest-Products/chair-6.jpg",
+      "img": "./images/Latest-Products/chair-6.jpg",
       "alt": "Latest Product winder chair sofa",
-      "icon": "images/Latest-Products/sale.png",
+      "icon": "./images/Latest-Products/sale.png",
       "altIcon": "Sale product icon"
     }
   ],
@@ -411,28 +462,28 @@
     {
       "id": 112051,
       "title": "Quality Products",
-      "img": "images/Shopex-Offer/icon-1.png",
+      "img": "./images/Shopex-Offer/icon-1.png",
       "alt": "Quality Products icon",
       "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
     },
     {
       "id": 112017,
       "title": "Quick Delivery",
-      "img": "images/Shopex-Offer/icon-2.png",
+      "img": "./images/Shopex-Offer/icon-2.png",
       "alt": "Quick Delivery icon",
       "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
     },
     {
       "id": 112018,
       "title": "Reasonable Pricing",
-      "img": "images/Shopex-Offer/icon-3.png",
+      "img": "./images/Shopex-Offer/icon-3.png",
       "alt": "Reasonable Pricing icon",
       "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
     },
     {
       "id": 112019,
       "title": "24/7 Support",
-      "img": "images/Shopex-Offer/icon-4.png",
+      "img": "./images/Shopex-Offer/icon-4.png",
       "alt": "24/7 Support icon",
       "description": "Lorem Ipsum is simply dummy of the printings and typesetting industry. Simply Dummy"
     }
@@ -441,10 +492,10 @@
     {
       "id": 112020,
       "to": "#",
-      "img": "images/Latest-Blog/Interior-1.jpg",
+      "img": "./images/Latest-Blog/Interior-1.jpg",
       "alt": "Room interior with sofa floor lamps",
       "authorName": "Mehedii.H",
-      "authorImg": "images/Latest-Blog/publisher-1-1.webp",
+      "authorImg": "./images/Latest-Blog/publisher-1-1.webp",
       "authorAlt": "publisher img",
       "time ": "24 August,2022",
       "title": "Room interior with sofa floor lamps",
@@ -453,10 +504,10 @@
     {
       "id": 2,
       "to": "#",
-      "img": "images/Latest-Blog/Interior-2.jpg",
+      "img": "./images/Latest-Blog/Interior-2.jpg",
       "alt": "Room interior with sofa floor lamps",
       "authorName": "Nayeim.J",
-      "authorImg": "images/Latest-Blog/publisher-2-2.jpg",
+      "authorImg": "./images/Latest-Blog/publisher-2-2.jpg",
       "authorAlt": "publisher img",
       "time ": "10 August,2022",
       "title": "Gray sofa combination with flower",
@@ -465,10 +516,10 @@
     {
       "id": 3,
       "to": "#",
-      "img": "images/Latest-Blog/Interior-3.jpg",
+      "img": "./images/Latest-Blog/Interior-3.jpg",
       "alt": "Room interior with sofa floor lamps",
       "authorName": "Saidsajid.H",
-      "authorImg": "images/Latest-Blog/publisher-3-3.jpg",
+      "authorImg": "./images/Latest-Blog/publisher-3-3.jpg",
       "authorAlt": "publisher img",
       "time ": "21 August,2022",
       "title": "Top essential dress trends in 2022",
@@ -478,69 +529,69 @@
   "brands": [
     {
       "id": 1,
-      "img": "images/brands/1.png",
+      "img": "./images/brands/1.png",
       "alt": "live brand icon"
     },
     {
       "id": 2,
-      "img": "images/brands/2.png",
+      "img": "./images/brands/2.png",
       "alt": "Hand Crafted brand icon"
     },
     {
       "id": 3,
-      "img": "images/brands/3.png",
+      "img": "./images/brands/3.png",
       "alt": "Mestonix brand icon"
     },
     {
       "id": 4,
-      "img": "images/brands/4.png",
+      "img": "./images/brands/4.png",
       "alt": "Hello Sunshine brand icon"
     },
     {
       "id": 5,
-      "img": "images/brands/5.png",
+      "img": "./images/brands/5.png",
       "alt": "Pure brand icon"
     }
   ],
   "top_catagories": [
     {
       "id": 112023,
-      "img": "images/Top-Catagories/Plywood-Arm-Chair.png",
+      "img": "./images/Top-Catagories/Plywood-Arm-Chair.png",
       "alt": "plywood armchair",
       "title": "Plywood Arm Chair",
       "price": 56
     },
     {
       "id": 112024,
-      "img": "images/Top-Catagories/Modern-coffe-chair.png",
+      "img": "./images/Top-Catagories/Modern-coffe-chair.png",
       "alt": "Modern coffee chair",
       "title": "Coffee Wood Chair",
       "price": 56
     },
     {
       "id": 112025,
-      "img": "images/Top-Catagories/High-Bar-Stool-Chair.png",
+      "img": "./images/Top-Catagories/High-Bar-Stool-Chair.png",
       "alt": "High Bar Stool Chair",
       "title": "High Bar Stool Chair",
       "price": 56
     },
     {
       "id": 112026,
-      "img": "images/Top-Catagories/Mini-LCW-Chair-2.png",
+      "img": "./images/Top-Catagories/Mini-LCW-Chair-2.png",
       "alt": "Mini LCW Chair",
       "title": "Mini LCW Chair",
       "price": 56
     },
     {
       "id": 112028,
-      "img": "images/Top-Catagories/Plywood-Arm-Chair.png",
+      "img": "./images/Top-Catagories/Plywood-Arm-Chair.png",
       "alt": "plywood armchair",
       "title": "Plywood Arm Chair",
       "price": 56
     },
     {
       "id": 112029,
-      "img": "images/Top-Catagories/Modern-coffe-chair.png",
+      "img": "./images/Top-Catagories/Modern-coffe-chair.png",
       "alt": "Modern coffee chair",
       "title": "Coffee Wood Chair",
       "price": 56
@@ -550,19 +601,19 @@
     "discountPro50": {
       "id": 1,
       "title": "50% off in all products",
-      "img": "images/Trending-Products/Mantel-Clock.png",
+      "img": "./images/Trending-Products/Mantel-Clock.png",
       "alt": "Mantel Clock"
     },
     "discountPro25": {
       "id": 1,
       "title": "23% off in all products",
-      "img": "images/Trending-Products/tv-Table.png",
+      "img": "./images/Trending-Products/tv-Table.png",
       "alt": "tv table"
     },
     "cardData": [
       {
         "id": 103,
-        "img": "images/Trending-Products/chair-1.jpg",
+        "img": "./images/Trending-Products/chair-1.jpg",
         "alt": "wooden outer arm chair",
         "title": "Wooden outdoor chair",
         "price": 39.99,
@@ -570,7 +621,7 @@
       },
       {
         "id": 104,
-        "img": "images/Trending-Products/chair-2.jpg",
+        "img": "./images/Trending-Products/chair-2.jpg",
         "alt": "wooden outer arm chair",
         "title": "Ladderback chair",
         "price": 39.99,
@@ -578,7 +629,7 @@
       },
       {
         "id": 102,
-        "img": "images/Trending-Products/chair-3.jpg",
+        "img": "./images/Trending-Products/chair-3.jpg",
         "alt": "wooden outer arm chair",
         "title": "Comfort Pillow Sofa",
         "price": 39.99,
@@ -586,7 +637,7 @@
       },
       {
         "id": 101,
-        "img": "images/Trending-Products/chair-4.jpg",
+        "img": "./images/Trending-Products/chair-4.jpg",
         "alt": "wooden outer arm chair",
         "title": "Cantilever chair",
         "price": 39.99,
